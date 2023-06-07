@@ -17,7 +17,7 @@ This is a simple C program based on hospital managment system.
   
          - Edit specialist
          
-         - Add more deisease details
+         - Add more disease details
          
          - Deposit money
          
