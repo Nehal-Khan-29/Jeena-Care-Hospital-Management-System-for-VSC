@@ -15,7 +15,7 @@ This is a simple C program based on hospital managment system.
         
   - Edit patient record
   
-         - Edit specilist
+         - Edit specialist
          
          - Add more deisease details
          
