@@ -3,14 +3,10 @@ This is a simple C program based on hospital managment system.
 ## WHAT IT DOES:
   - Add patient record
   - Search patient record
-  
-         - Display patient record
-         
-         - Display medical bill
-         
-         - Display medical test history
-        
-         - Display total deposit 
+         -- Display patient record
+         -- Display medical bill
+         -- Display medical test history
+         -- Display total deposit 
         
   - Edit patient record
          - Edit specilist
