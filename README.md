@@ -1,4 +1,4 @@
-# Jeena-Care-Hospital-Managment-System
+# Jeena-Care-Hospital-Management-System
 This is a simple C program based on hospital managment system.
 ## WHAT IT DOES:
   - Add patient record
