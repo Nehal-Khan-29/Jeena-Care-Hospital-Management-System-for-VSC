@@ -15,13 +15,13 @@ This is a simple C program based on hospital managment system.
         
   - Edit patient record
   
-         - Edit specialist
+       - Edit specialist
          
-         - Add more disease details
+       - Add more disease details
          
-         - Deposit money
+       - Deposit money
          
-         - Add medical test
+       - Add medical test
 
   - Delete patient record 
 
