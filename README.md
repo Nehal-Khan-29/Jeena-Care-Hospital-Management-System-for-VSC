@@ -5,7 +5,7 @@ This is a simple C program based on hospital managment system.
   
   - Search patient record
   
-         - Display patient record
+       -- Display patient record
          
          - Display medical bill
          
