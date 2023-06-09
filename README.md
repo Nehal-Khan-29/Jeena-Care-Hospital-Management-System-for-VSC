@@ -5,13 +5,13 @@ This is a simple C program based on hospital managment system.
   
   - Search patient record
   
-       -- Display patient record
+       - Display patient record
          
-         - Display medical bill
+       - Display medical bill
          
-         - Display medical test history
+       - Display medical test history
         
-         - Display total deposit 
+       - Display total deposit 
         
   - Edit patient record
   
